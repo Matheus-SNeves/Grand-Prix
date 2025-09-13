@@ -1,6 +1,8 @@
 # SESI: do lixo para o laboratório
 **Aluno:** Matheus dos Santos Neves  
 
+# Git Pages: https://matheus-sneves.github.io/Grand-Prix/
+
 ## Contextualização e Visão Geral
 As escolas geram diariamente resíduos orgânicos e plásticos.  
 Com base em uma pesquisa realizada junto a funcionários da escola, foi identificado que os principais materiais descartados são **restos de comida da cantina** e **copos plásticos**.  
